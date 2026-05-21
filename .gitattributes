@@ -1,0 +1,8 @@
+pcb.kicad_pcb filter=lfs diff=lfs merge=lfs -text
+pcb.kicad_prl filter=lfs diff=lfs merge=lfs -text
+pcb.kicad_pro filter=lfs diff=lfs merge=lfs -text
+pcb.kicad_sch filter=lfs diff=lfs merge=lfs -text
+sym-lib-table filter=lfs diff=lfs merge=lfs -text
+fp-lib-table filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+pcb-backups filter=lfs diff=lfs merge=lfs -text
